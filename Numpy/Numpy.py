@@ -79,9 +79,10 @@ print(d)
 
 # c = b - a                        # subtract array b from array a (could nt  do this operation because of different
 # e = d - a                        # Subtract can be done
-print(d-a)
+print(d - a)
 # shapes )
 # print(c)
 print(b ** 2)
 print(b > 5)
 print('-------------------------------------------------------------------------------------')
+print('will continue in Numpy2.py')
